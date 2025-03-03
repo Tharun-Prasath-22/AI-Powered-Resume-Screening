@@ -1,0 +1,6 @@
+Essential libraries (Streamlit, PyPDF2, pandas, scikit-learn, numpy)
+✅ NLTK (for NLP, if needed)
+✅ python-docx (for DOCX support, if added later)
+✅ regex (for text cleaning)
+✅ joblib (for saving/loading ML models)
+
